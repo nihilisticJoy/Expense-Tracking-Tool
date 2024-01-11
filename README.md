@@ -4,8 +4,8 @@
 3. You can record the type of the expenses and income
 
 ## The following are project demonstration images.
-![img](https://github.com/nihilisticJoy/Expense-Tracking-Tool/tree/main/img/Record.png)
+![record](https://github.com/nihilisticJoy/Expense-Tracking-Tool/tree/main/img/Record.png)
 
-![img](https://github.com/nihilisticJoy/Expense-Tracking-Tool/tree/main/img/income.png)
+![income](https://github.com/nihilisticJoy/Expense-Tracking-Tool/tree/main/img/income.png)
 
-![img](https://github.com/nihilisticJoy/Expense-Tracking-Tool/tree/main/img/bill.png)
+![bill](https://github.com/nihilisticJoy/Expense-Tracking-Tool/tree/main/img/bill.png)
